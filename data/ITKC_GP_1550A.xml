@@ -1,0 +1,1517 @@
+<아이템 id="ITKC_GP" name="고전원문" org="한국고전번역원">
+<레벨1 id="ITKC_GP_1550A" type="서지" 자료생성일="2021-11-30">
+	<메타정보>
+		<제목정보>
+			<제목 type="한자서명">古芸堂筆記</제목>
+			<제목 type="한글서명">고운당필기</제목>
+		</제목정보>
+		<저자정보 type="저자" 복수구분="">
+			<저자>
+				<한글성명>유득공</한글성명>
+				<한자성명>柳得恭</한자성명>
+				<생년 서기년="1748">영조 24</생년>
+				<몰년 서기년="1807">순조 7</몰년>
+			</저자>
+		</저자정보>
+		<간행정보>
+			<집수 끝번호="001" 시작번호="001">1</집수>
+			<간행기간 시작년="2020" 종료년="2020">2020</간행기간>
+			<원문간행년 서기년="1780">1780</원문간행년>
+			<간행처>한국고전번역원</간행처>
+			<자료형식>text/xml</자료형식>
+			<언어>coc</언어>
+		</간행정보>
+		<참조정보>
+			<참조항목 type="역사정보통합시스템">
+				<참조내용 type="자료유형">고도서</참조내용>
+				<참조내용 type="GCODE">GO-4-2</참조내용>
+			</참조항목>
+		</참조정보>
+		<분류정보>
+			<분류항목 type="주제분류">
+				<분류내용>문집</분류내용>
+			</분류항목>
+			<분류항목 type="사부분류">
+				<분류내용 type="대분류">집부(集部)</분류내용>
+				<분류내용 type="중분류">별집류(別集類)</분류내용>
+			</분류항목>
+		</분류정보>
+	</메타정보>
+	<해설정보>
+		<해설 id="H004" type="범례">
+			<메타정보>
+				<제목정보>
+					<제목>범례</제목>
+				</제목정보>
+			</메타정보>
+			<본문정보>
+				<내용>
+<단락제목 align="left" indent="0">범례</단락제목>
+<단락 align="left" indent="0">1. 이 책은 柳得恭의 저작인 《古芸堂筆記》를 校勘標點한 것이다.</단락>
+<단락 align="left" indent="0">2. 이 책은 산일되어 있는 《古芸堂筆記》 筆寫本을 수집, 정리해 만든 定本이다.</단락>
+<단락 align="left" indent="0">3. 이 책은 권별로 가장 많은 항목을 담고 있는 정리된 본을 底本으로 삼은 후 異本과 대조하는 과정을 거쳐 校勘하였다. 또한 卷1 중 33편, 卷2 중 8편 총 41편은 미확인 상태로 卷1~6 총 295편 중 254편을 수록하였다. 일실된 편이 많은 卷1~2는 여러 底本을 종합하여 사용하였다. 각 권의 底本은 다음과 같다.</단락>
+<단락 align="left" indent="0">• 卷1~2: 미국 버클리大學校圖書館本(도서번호：ASAMI 36.12 本書 내 약칭 버클리大1本)</단락>
+<단락 align="left" indent="4">박철상所藏本(朝鮮總督府保轉本)</단락>
+<단락 align="left" indent="4">天理大學韓國朝鮮語專攻本(本書 내 약칭 天理大2本)</단락>
+<단락 align="left" indent="0">•卷3~4: 國立中央圖書館本(도서번호：한貴古朝90-4 本書 내 약칭 國中本)</단락>
+<단락 align="left" indent="0">•卷5~6: 天理大學天理圖書館本(本書 내 약칭 天理大1本)</단락>
+<단락 align="left" indent="0">이 외에 校勘에 사용된 異本으로는 奎章閣本(도서번호 : 古0320-26)이 있으며 각 편에 대한 底本 정보는 本書 말미에 底本 一覽表로 정리해 수록하였다.</단락>
+<단락 align="left" indent="0">4. 底本의 오류를 수정한 경우, 중요한 자구에 차이가 있는 경우, 오류가 의심되는 경우에는 모두 校勘記에 그 내용을 밝혔다. 단, 異體字와 관행적인 混用字는 각각 바로 代表字와 正字로 수정하였으며 따로 校勘記를 달지 않았다. 이때 代表字의 판정은 韓國古典飜譯院異體字檢索시스템을 준거로 하였다.</단락>
+<단락 align="left" indent="0">5. 標點符號는 古典文獻에 통용되는 일반적인 용법에 따라 사용하였다. 단, 명사의 병렬이 중층적인 경우 상층에는 모점(、)을 쓰고 하층에는 가운뎃점(・)을 썼다. 原註는 【 】로 표시하고 缺落字는 □로, 磨滅字는 ▨로 표시하였다.</단락>
+<단락 align="left" indent="0">6. 校勘資料는 책 말미에 수록하였다.</단락>
+<단락제목 align="left" indent="0">底本一覽表</단락제목>
+<단락 align="left" indent="0"><표>
+<kh.table>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">卷次</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">連番</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">篇名</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">底本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">異本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="32" ve.align="middle">1</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">1</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">圖書集成</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="32" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">2</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">麗華卽羅敷</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">3</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">營實</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">4</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">古音兒津</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">古音兒津</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">5</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">新羅者新國</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">6</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">詩以六經三史爲根本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">7</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蓋蘇文蓋金</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">8</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">醉如泥</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">9</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">關廟碑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">10</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">上元直中語</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">11</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">高麗二碑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">12</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">詩三百篇具各體</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">13</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">百濟裔孫</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">14</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">袁簡齋詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">15</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">三百本花</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">16</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">對聯</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">17</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">暹羅國表</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">18</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">龍骨大</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">19</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">新羅王樓姓慕姓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">20</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">合樂魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">21</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">對馬島太守</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">22</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">唐鞋雲鞋</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">23</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東人之歌</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">24</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">金使曹士元詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">25</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">帳籍奇姓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">26</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">嘉山童</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">27</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">北俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">28</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">倭俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">29</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">楊根樵夫</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">30</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">黃州盜</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">31</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">龍門四菜</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">32</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">顧曉之詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="33" ve.align="middle">2</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">33</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">日本僧竺常文</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="18" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">34</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">虎鬚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">35</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">子規樓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">36</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">獐夫人冢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">37</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鬼諺文</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">38</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">柵外猛虎</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">39</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">花無情故可愛</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">40</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">耳衣</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">41</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">阿彌達窮河源</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">42</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">歌行韻迭用四聲</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">43</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">耽羅者島國</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">44</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東明朱蒙</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">45</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蓋蘇文姓淵</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">46</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">五國城</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">47</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鐵爐犀爵</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">48</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">北關沿革</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">49</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蓋馬山卽白頭山</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">50</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">車漢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">51</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">琉球年代</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">52</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">金殷說墓誌</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">53</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">南陽海中柱</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">54</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">大唐平百濟國碑銘</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="12" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">55</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蘇州七子</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">56</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">錢虞山孫錦城</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">57</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">小學照訖</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">58</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">一枝紅詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">59</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">玉佩詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">60</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">神杆</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">61</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">洪稚存七招</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">박철상所藏本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">62</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">達發哈魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">63</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">馮弘冢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">64</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">禁髢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">65</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">西洋番人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="40" ve.align="middle">3</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">66</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">駕洛國</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">67</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">淺毛虎</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">68</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">藁</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">69</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">花郞</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">70</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">雜寶龜</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">71</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">平壤隧穴</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">72</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">沃沮豫婦</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">73</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">馬韓土室</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="6" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">74</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">兩湖風俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">75</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">八道軍摠</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">76</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">晝紙</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">77</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">瀋陽日記</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">78</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">家蔘</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+國中本
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">79</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">琉球安南緬甸使</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">80</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">製進古詩排律</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">81</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">學兒寫進劉賓客詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">82</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">吉林風俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">83</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">內閣代撰日省錄</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="4" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">84</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">七月七日對策</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">85</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">御射古風</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">86</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">先聖裔孫賜第</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">87</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">呼倭爲濊</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">88</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東硏</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">89</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">俗字</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="6" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">90</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">螳螂化䵷</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">91</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">珠鷄化蛇</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">92</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">草木蟲魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">93</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">說態</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">94</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">進箋</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">95</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">熱河日記</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">96</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">春帖對聯</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">97</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">特差享官</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">98</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">廢四郡</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">99</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">耳掩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">100</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">折風</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">101</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">軍服</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">102</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">趙文敏書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">103</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">韋左司體</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">104</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">自帶方郡至倭</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td></kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">105</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">俗語改正</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="50" ve.align="middle">4</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">106</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">西水羅木</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="6" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">107</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">滿蒙倭</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">108</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">金剛山</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">109</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">恩旨許免入直抄寫</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">110</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">西海諸島</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">111</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鐵嶺衛</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">112</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">女眞坪</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">113</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">西北之材</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">114</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東國禮俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">115</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">用車</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="4" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">116</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">北魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">117</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">平壤人飮浿江</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">118</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">海東書家</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">119</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">高麗文集</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">120</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東人著書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">121</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鵓鴿八目</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">122</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">黑菊</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">123</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">滿洲語</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="6" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">124</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">三種海草</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">125</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">雜卉幽花</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">126</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東方有古音</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">127</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蘭亭會</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">128</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">印三經四書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">129</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">倭語倭字</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">130</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蒙古語</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">131</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">自稱小人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">132</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">茶食藥果</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">133</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">紅旗浦偵探</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">134</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">山都</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">135</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">砮矢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">136</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">校書館</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">137</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">花戶油窓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+國中本
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">138</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東人御馬</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="7" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">139</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鷙鳥名</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">140</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">其人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">141</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">結</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">142</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">濟用監</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">143</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">珊瑚水晶</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">144</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">蟈蟈</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">145</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">象記</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">146</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">檢書體</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">147</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東人立奇功者</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">148</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">金山金始</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">149</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">狗戲馬笑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">150</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">嘔血臺</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">151</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">兩倉</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">152</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">內閣日曆</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">153</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">栍</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">154</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">漢字</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">155</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">只知有餳</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">國中本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="41" ve.align="middle">5</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">156</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">歲時風俗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">157</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">六月十五日</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">158</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">我書傳於倭</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本, 天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">159</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">補破詩匠</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">160</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">靑氅衣</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">161</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">淡婆姑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">162</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">英咭唎國</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">163</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">軍服扈從</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="9" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">164</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">楚亭小室婚書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">165</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">甲寅本三經四書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">166</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">甲寅賞花釣魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">167</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">華岳祈雨</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">168</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">整理通考圖說</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">169</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">乙卯賞花釣魚</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">170</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">洗心臺賞花</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">171</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">池女獄案</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">172</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">樂浪人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">173</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">呼盧賣困</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">174</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">復拜檢書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">175</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">陳都督碑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">176</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">趙學淦詞</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">177</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東詩緣起</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">178</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">二府之誤</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="5" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">179</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">印進忠武公全書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">180</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">待年檢書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">181</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">中和尺</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">182</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">年號陵號考同</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">183</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">崇禎後東來人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">184</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">釵山隱君詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">185</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">畿郡尙猛</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">186</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">海人</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">187</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">引進使印</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本, 天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">188</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">銅關防</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大2本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">189</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">植木補土表</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="8" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">190</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鄕語半華語半</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">191</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">學兒拜檢書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">192</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">奎章全韻</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">193</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">陞通政</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">194</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">梁大司馬</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">195</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">大報父母恩重經</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">196</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">武經七書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="58" ve.align="middle">6</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">197</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">陸奏約選</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">198</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">五倫行實圖</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">199</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">朴義射殺楊古里</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">200</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">岳託</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">201</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">女眞不知兵</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">202</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">新羅金百濟銀</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">203</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鄭六同</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">204</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">奪水</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">205</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">善諂者訪善謙者</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">206</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鐵侍郞詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">207</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">李邦翼漂海日記</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">208</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">左右牽</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">209</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">紅毛番</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">210</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">農器俗名釋</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">211</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">馯</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">212</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">鳧臾</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">213</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東音勝華音</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">214</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">東俗粧梳</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">215</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">番人鳥槍</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">216</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">熊蔬卽杜衡</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">217</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">日本栗</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">218</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">皮荻栗辨</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">219</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">黃功木蘭詞</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="4" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">220</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">種蔘方</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">221</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">奴婢</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">222</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">羅麗古碑</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">223</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">渾脫舞</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">224</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">炕</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="2" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">225</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">韓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">226</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">薩拉蜜</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">227</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">寫進御定手圈</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">228</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">罷僉樞</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">229</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">淸儀註</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">230</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">速頻押蘭兀的改</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">231</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">淸太上皇帝遺詔</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="12" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">232</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">詣鑄字所</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">233</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">敍用</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">234</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">恩杯詩集</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">235</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">己未植木便覽</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">236</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">和珅二十大罪</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">237</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">永付兼檢書</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">238</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">內賜黑團領</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">239</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">雅誦</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">240</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">陪駕北一營</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">241</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">春秋畢讀賡進</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">242</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">御製集</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">243</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">副勅英和詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">244</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">劉松嵐詩</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="3" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">245</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">割付</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">246</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">箍笒</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">247</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">曷蘇館</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">248</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">賜書總目</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">249</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">阿蘭陀</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">250</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">上弦弓</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">251</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">五國城</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">252</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">建州始末</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">253</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">王仁</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">버클리大1本</kh.td>
+</kh.tr>
+<kh.tr>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">254</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">化畫音同</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle">天理大1本</kh.td>
+<kh.td colno="1" ho.align="left" line.type="solid" rowno="1" ve.align="middle"/>
+</kh.tr>
+</kh.table>
+</표></단락>
+<단락제목 align="left" indent="0">校勘資料</단락제목>
+<단락 align="left" indent="0">•高麗史: 鄭麟趾 等撰, 1613年刊, 木版本, 奎章閣 所藏(奎貴3539).</단락>
+<단락 align="left" indent="0">•南村輟耕錄: 陶宗儀 撰, 中華書局, 1958.</단락>
+<단락 align="left" indent="0">•大淸一統志: 穆彰阿·潘錫恩 等纂, 上海古籍出版社, 2008.</단락>
+<단락 align="left" indent="0">•獨谷集: 成石璘 著, 韓國文集叢刊 6, 民族文化推進會, 1990.</단락>
+<단락 align="left" indent="0">•東史綱目: 安鼎福 著, 筆寫本, 韓國敎會史硏究所 所藏.</단락>
+<단락 align="left" indent="0">•明史: 張廷玉 等奉勅撰, 二十四史全譯 vol.24-1~10, 漢語大詞典出版社, 2004.</단락>
+<단락 align="left" indent="0">•明實錄: 中央硏究院歷史語言硏究所 校刊, 英美書籍, 1995.</단락>
+<단락 align="left" indent="0">•本草綱目: 李時珍 撰, 文淵閣四庫全書 772~774, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•三國史記: 金富軾 著, 正德板本(玉山書院本), 古典刊行會 影印, 1931, 啓明大學校童山圖書館 所藏.</단락>
+<단락 align="left" indent="0">•三國志: 陳壽 著, 文淵閣四庫全書 253, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•三韓金石錄: 吳慶錫 編, 筆寫本, 1858年寫, 國立中央圖書館 所藏(위창古2102-44).</단락>
+<단락 align="left" indent="0">•書傳: 1820年刊 內閣藏版, 學民文化社 影印, 1990.</단락>
+<단락 align="left" indent="0">•宋史: 張廷玉 等奉勅撰, 二十四史全譯 vol.24-1~10, 漢語大詞典出版社, 2004.</단락>
+<단락 align="left" indent="0">•菽園雜記: 陸容 撰, 文淵閣四庫全書.</단락>
+<단락 align="left" indent="0">•承政院日記: 承政院 編, 奎章閣 所藏(圖書番號 奎12788-v.1~3045).</단락>
+<단락 align="left" indent="0">•新唐書: 歐陽修 等撰, 文淵閣四庫全書 272~276, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•新增東國輿地勝覽: 盧思愼 等奉命編, 李荇 等奉命補訂, 1530年刊, 木板本, 國立中央圖書館 所藏(한古朝60-3-2).</단락>
+<단락 align="left" indent="0">•十六國春秋: 崔鴻 撰, 臺灣商務印書館, 1968.</단락>
+<단락 align="left" indent="0">•御製詩集: 高宗 御製, 文淵閣四庫全書 1301, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•硏經齋全集: 成海應 著, 筆寫本, 韓國文集叢刊 273~279, 民族文化推進會, 2005.</단락>
+<단락 align="left" indent="0">•燕巖集: 朴趾源 著, 1932年刊, 韓國文集叢刊 252, 民族文化推進會, 2001.</단락>
+<단락 align="left" indent="0">•泠齋書種: 柳得恭 著, 1796年 筆寫, 國立中央圖書館 所藏(한貴古朝90-4).</단락>
+<단락 align="left" indent="0">•泠齋集: 柳得恭 著, 韓國文集叢刊 260, 民族文化推進會, 2005.</단락>
+<단락 align="left" indent="0">•遼史: 托克托 等修, 1344年刊, 文淵閣四庫全書.</단락>
+<단락 align="left" indent="0">•魏書: 魏收 撰, 中華書局, 1997.</단락>
+<단락 align="left" indent="0">•柳下集: 洪世泰 著, 韓國文集叢刊 167, 民族文化推進會, 1996.</단락>
+<단락 align="left" indent="0">•六韜: 呂望 著, 文淵閣四庫全書 726, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•仁祖實錄: 春秋館 編, 太白山史庫本, 朝鮮王朝實錄 44~47, 國史編纂委員會 影印, 1956~1957.</단락>
+<단락 align="left" indent="0">•資治通鑑: 司馬光 編著, 中華書局, 1956(1992 5刷).</단락>
+<단락 align="left" indent="0">•長崎縣史: 長崎縣史編纂委員會 編, 吉川弘文館, 1963~1986.</단락>
+<단락 align="left" indent="0">•全唐文: 董誥 等編, 上海古籍出版社, 1993.</단락>
+<단락 align="left" indent="0">•錢氏私志: 錢世昭 撰, 文津閣四庫全書 345, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•正祖實錄: 春秋館 編, 太白山史庫本, 朝鮮王朝實錄 33~35, 國史編纂委員會 影印, 1957.</단락>
+<단락 align="left" indent="0">•朝鮮金石總覽: 朝鮮總督府 編, 1919年刊, 景仁文化社 影印, 1974.</단락>
+<단락 align="left" indent="0">•淸實錄: 中華書局, 1985~1987.</단락>
+<단락 align="left" indent="0">•春秋左氏傳: 左丘明 撰, 1794年刊 丁酉字本, 學民文化社 影印, 2000.</단락>
+<단락 align="left" indent="0">•芝峯集: 李睟光 著, 韓國文集叢刊 66, 民族文化推進會, 1991.</단락>
+<단락 align="left" indent="0">•惕齋集: 李書九, 《薑山全書》, 成均館大學校大東文化硏究院 影印, 2005.</단락>
+<단락 align="left" indent="0">•淸芬室書目: 李仁榮 編, 1947年 筆寫, 國立中央圖書館 所藏(古0267-26).</단락>
+<단락 align="left" indent="0">•淸史稿: 趙爾巽 等撰, 中華書局, 1977(2014 重印).</단락>
+<단락 align="left" indent="0">•靑城雜記: 成大中 著, 筆寫本, 李丙燾 所藏.</단락>
+<단락 align="left" indent="0">•靑莊館全書: 李德懋 著, 筆寫本, 1900年代前期 寫, 韓國文集叢刊 257~259, 民族文化推進會, 2005.</단락>
+<단락 align="left" indent="0">•漢書: 班固 撰, 文淵閣四庫全書 249~251, 臺灣商務印書館, 1983.</단락>
+<단락 align="left" indent="0">•海東金石苑: 劉燕庭 編, 石版本, 二銘草堂, 1831, 啓明大學校童山圖書館 所藏.</단락>
+<단락 align="left" indent="0">•海東歷史: 韓致奫 著, 刊寫年 未詳, 國立中央圖書館 所藏(한古朝50-174).</단락>
+<단락 align="left" indent="0">•海行摠載: 鄭夢周 等著, 朝鮮古書刊行會, 1914.</단락>
+<단락 align="left" indent="0">•胡貿棺記: 唐順之 著, 《荊川先生文集》, 文淵閣四庫全書.</단락>
+<단락 align="left" indent="0">•和漢三才圖會, 寺島良安 編, 東京美術, 1992.</단락>
+<단락 align="left" indent="0">•皇朝文獻通考: 張廷玉 等撰, 1787年刊, 文淵閣四庫全書.</단락>
+<단락 align="left" indent="0">•皇淸開國方略: 阿桂 等編, 1774年刊, 文淵閣四庫全書.</단락>
+<단락 align="left" indent="0">•淮南子: 劉安 等著, 中華書局, 1966.</단락>
+<단락 align="left" indent="0">•後漢書: 范曄 撰, 中華書局, 1973.</단락>
+<단락 align="left" indent="0">•欽定日下舊聞考: 于敏中 等編, 1787年刊, 文淵閣四庫全書.</단락>
+				</내용>
+			</본문정보>
+		</해설>
+	</해설정보>
+</레벨1></아이템>
