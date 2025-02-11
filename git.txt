@@ -31,21 +31,23 @@ git commit -m "커밋메시지"
 원격 저장소와 연결을 해야 한다.
 깃허브에 로그인을 하고 원격 저장소를 만들어주어야 한다.
 
-원격 저장소 정보를 보여주는 명령어
-git remote -v
+R Studio cloud와 깃허브를 연결할 때,
+계정의 비밀번호가 필요하다.
+1. 깃허브에서 우상단 프로필 사진 클릭
+2. 아래쪽에 있는 settings 클릭
+3. 좌측에 있는 메뉴 중 가장 아래에 있는 개발자 설정(Developer settings) 클릭
+4. 좌측 메뉴 중 Personal Access Token 클릭
+5. Token Classic 클릭
+6. Generate New Token 클릭
+7. Generate New Token(Classic) 클릭
+8. note 해당 키의 별명을 지정, expire 해당 비밀번호를 유지시킨 뒤 폭파시킬 기간 설정
+9. 권한 설정
+10. Generate Token
+11. 비밀번호를 R Studio Cloud에서 push할 때 입력
+12. R Studio Cloud에서 push할 때 닉네임은 본인 깃허브 홈페이지 상단 주소에 나온다.(좌상단)
 
-원격 저장소로 로컬의 변경사항을 동기화하는 명령어
-밀어올린다
-git push
-git push origin main
 
-원격 저장소에 저장된 내용을 다른 PC나 폴더에 받아서
-이어서 작업을 할 수 있다.
-git clone 깃허브주소 .
-마지막의 마침표.는 현재 폴더 바로 아래에 저장소의 내용을
-풀어놓겠다는 의미이다.
-마침표를 빼면, 원격 저장소의 이름으로 폴더가 생성되어 그 안에
-프로젝트 파일들이 위치하게 된다.
+
 
 
 
